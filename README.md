@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0242-valid-anagram) |
 # String
 |  |
@@ -18,3 +19,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0242-valid-anagram) |
+# Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
+# Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
