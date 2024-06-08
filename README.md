@@ -22,8 +22,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 # Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
