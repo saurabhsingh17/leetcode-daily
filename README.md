@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -32,9 +33,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 # Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
