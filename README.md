@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0242-valid-anagram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 # String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0242-valid-anagram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 # Sorting
 |  |
 | ------- |
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -41,3 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
