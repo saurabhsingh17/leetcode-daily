@@ -28,10 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 # Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 # Dynamic Programming
 |  |
