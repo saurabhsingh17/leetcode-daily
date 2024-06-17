@@ -9,7 +9,7 @@ class Solution {
         myMaps.get(hash).add(item);
         }
         List<List<String>> ans = new ArrayList<>();
-        for (Map.Entry<String, List<String>> entry : myMaps.entrySet()) {
+        for (var entry : myMaps.entrySet()) {
             ans.add(entry.getValue());
         }
         //System.out.println(ans);
