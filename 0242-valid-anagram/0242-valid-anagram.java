@@ -13,7 +13,7 @@ class Solution {
             b2[(int)(tt[i]-'a')] += 1;
         }
         for(int i = 0; i < 26; i++){
-            System.out.println(b[i]+" "+b2[i]);
+            //System.out.println(b[i]+" "+b2[i]);
             if(b[i] == b2[i])
             continue;
             else {
