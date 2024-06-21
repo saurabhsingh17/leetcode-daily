@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 # String
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 # Array
 |  |
 | ------- |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 # Sliding Window
@@ -59,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saurabhsingh17/leetcode-daily/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 # Binary Search
 |  |
@@ -68,3 +72,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0209-minimum-size-subarray-sum) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+# Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
