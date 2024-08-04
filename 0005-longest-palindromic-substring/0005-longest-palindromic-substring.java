@@ -1,55 +1,55 @@
-// class Solution {
-//     public String longestPalindrome(String str) {
-//         char[] s = str.toCharArray();
-//         String res = "";
-//         int n = s.length;
-//         int resLen = 0;
-//         //odd cases
-//         for (int i = 0; i < n; i++) {
-//             int l = i, r = i; 
-//             while( l >= 0 && r <n && s[l] == s[r]){
-//                 if(r-l+1 > resLen) {
-//                     res = str.substring(l,r+1);
-//                     resLen = r-l+1;
-//                 }
-//                 l -= 1;
-//                 r += 1;
-//             }
-
-//             l = i;
-//             r = i+1;
-//             while( l >= 0 && r <n && s[l] == s[r]){
-//                 if(r-l+1 > resLen) {
-//                     res = str.substring(l,r+1);
-//                     resLen = r-l+1;
-//                 }
-//                 l -= 1;
-//                 r += 1;
-//             }
-
-//         }
-//     return res;
-//     }
-    
-// }
 class Solution {
     public String longestPalindrome(String str) {
-        int n = str.length();
-        String res = "";
+        if (str == null || str.length() == 0) {
+            return "";
+        }
+
+        String processedStr = preprocess(str);
+        int n = processedStr.length();
+        int[] p = new int[n];
+        int center = 0, right = 0;
         
         for (int i = 0; i < n; i++) {
-            res = getLongerPalindrome(str, i, i, res);     // Odd-length palindromes
-            res = getLongerPalindrome(str, i, i + 1, res); // Even-length palindromes
+            int mirror = 2 * center - i;
+            if (right > i) {
+                p[i] = Math.min(right - i, p[mirror]);
+            }
+
+            int a = i + p[i] + 1;
+            int b = i - p[i] - 1;
+            while (a < n && b >= 0 && processedStr.charAt(a) == processedStr.charAt(b)) {
+                p[i]++;
+                a++;
+                b--;
+            }
+
+            if (i + p[i] > right) {
+                center = i;
+                right = i + p[i];
+            }
         }
-        return res;
+
+        int maxLen = 0;
+        int centerIndex = 0;
+        for (int i = 0; i < n; i++) {
+            if (p[i] > maxLen) {
+                maxLen = p[i];
+                centerIndex = i;
+            }
+        }
+
+        int start = (centerIndex - maxLen) / 2;
+        return str.substring(start, start + maxLen);
     }
 
-    private String getLongerPalindrome(String str, int left, int right, String currentLongest) {
-        while (left >= 0 && right < str.length() && str.charAt(left) == str.charAt(right)) {
-            left--;
-            right++;
+    private String preprocess(String str) {
+        StringBuilder sb = new StringBuilder();
+        sb.append('#');
+        for (char c : str.toCharArray()) {
+            sb.append(c);
+            sb.append('#');
         }
-        String palindrome = str.substring(left + 1, right);
-        return palindrome.length() > currentLongest.length() ? palindrome : currentLongest;
+        return sb.toString();
     }
 }
+
