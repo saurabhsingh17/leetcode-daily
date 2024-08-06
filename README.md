@@ -123,8 +123,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0015-3sum) |
+| [0303-range-sum-query-immutable](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0015-3sum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/saurabhsingh17/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
